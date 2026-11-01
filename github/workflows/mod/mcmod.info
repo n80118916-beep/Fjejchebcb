@@ -1,0 +1,10 @@
+[
+{
+  "modid": "helpermod",
+  "name": "Helper Mod",
+  "description": "Вспомогательный мод с GUI по Right Shift",
+  "version": "1.1",
+  "mcversion": "1.7.10",
+  "authorList": ["YourName"]
+}
+]
